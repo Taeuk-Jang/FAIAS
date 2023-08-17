@@ -1,4 +1,4 @@
-This is experimental code for the paper Adversarial Fairness Network for TKDE
+This is experimental code for the paper Adversarial Fairness Network for AAAI 2024
 
 We employ datasets and pre-processing of them directly from AIF360 package.
 Please put the AIF360 repo(https://github.com/Trusted-AI/AIF360) at the root directory to replicate the results.
